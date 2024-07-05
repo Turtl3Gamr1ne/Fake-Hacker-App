@@ -1,1 +1,1 @@
-Please don´t use this in school!
+Please don´t use this at school!
