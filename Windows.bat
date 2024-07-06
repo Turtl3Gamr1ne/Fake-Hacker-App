@@ -5,7 +5,9 @@ echo starting .....
 echo starting ......
 color a
 cd C:
-color a
+ping www.google.com
+ping www.google.com
+ping www.google.com
 :loop
 dir
 dir
